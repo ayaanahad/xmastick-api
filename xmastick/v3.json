@@ -1,0 +1,247 @@
+{
+    "version": 3,
+    "app": "xmastick",
+    "generated_at": "2026-08-01T15:49:42+00:00",
+    "collections": {
+        "backgrounds": [
+            {
+                "key": "bg_chimney",
+                "name": "Chimney",
+                "tier": "free",
+                "order": 0,
+                "name_key": "BG_CHIMNEY",
+                "sha256": "8bc17df945e4f42b4e58b56b770b181782ae2849a2bfc34681f685d03522f757",
+                "bytes": 43588,
+                "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_chimney.webp",
+                "thumb": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_chimney_t.webp",
+                "source": "res/drawable/chimney.xml",
+                "format": "webp",
+                "needs": "webp",
+                "width": "1080",
+                "height": "1080"
+            },
+            {
+                "key": "bg_fireplace",
+                "name": "Fireplace",
+                "tier": "free",
+                "order": 10,
+                "name_key": "BG_FIREPLACE",
+                "sha256": "f776cee0246ed549e1926380b505708d79cc0ebcd18a5abdd3635ebcc7a2b6bf",
+                "bytes": 48586,
+                "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_fireplace.webp",
+                "thumb": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_fireplace_t.webp",
+                "source": "res/drawable/fireplace.xml",
+                "format": "webp",
+                "needs": "webp",
+                "width": "1080",
+                "height": "1080"
+            },
+            {
+                "key": "bg_snowman",
+                "name": "Snowman",
+                "tier": "free",
+                "order": 20,
+                "name_key": "BG_SNOWMAN",
+                "sha256": "5698451fbdd2e57d89b798ae9c90948da7c9505e0b83153551005d1fbc3cbb62",
+                "bytes": 40368,
+                "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_snowman.webp",
+                "thumb": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_snowman_t.webp",
+                "source": "res/drawable/snowman.xml",
+                "format": "webp",
+                "needs": "webp",
+                "width": "1080",
+                "height": "918"
+            },
+            {
+                "key": "bg_market",
+                "name": "Market",
+                "tier": "free",
+                "order": 30,
+                "name_key": "BG_MARKET",
+                "sha256": "8a6ba76876df537f000d6d31c1726181760805dfc53390801631d4ca4dfb60d2",
+                "bytes": 84274,
+                "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_market.webp",
+                "thumb": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/bg_market_t.webp",
+                "source": "res/drawable/market.xml",
+                "format": "webp",
+                "needs": "webp",
+                "width": "1080",
+                "height": "900"
+            }
+        ],
+        "themes": [],
+        "music": [
+            {
+                "key": "adeste_fideles",
+                "name": "Adeste Fideles",
+                "tier": "free",
+                "order": 0,
+                "name_key": "ADESTE_FIDELES",
+                "bytes": 265345,
+                "artist": "Traditional",
+                "source": "res/raw/adeste_ideles.mp3",
+                "licence": "REPLACE"
+            },
+            {
+                "key": "carol_of_the_bells",
+                "name": "Carol of the Bells",
+                "tier": "free",
+                "order": 10,
+                "name_key": "CAROL_OF_THE_BELLS",
+                "bytes": 822543,
+                "artist": "Traditional",
+                "source": "res/raw/carol_of_the_bells.mp3",
+                "licence": "REPLACE"
+            },
+            {
+                "key": "christmas_tree",
+                "name": "Oh Christmas Tree",
+                "tier": "free",
+                "order": 20,
+                "name_key": "CHRISTMAS_TREE",
+                "bytes": 177948,
+                "artist": "Traditional",
+                "source": "res/raw/christmas_tree.mp3",
+                "licence": "REPLACE"
+            },
+            {
+                "key": "jingle_bells",
+                "name": "Jingle Bells",
+                "tier": "free",
+                "order": 30,
+                "name_key": "JINGLE_BELLS",
+                "bytes": 273379,
+                "artist": "Traditional",
+                "source": "res/raw/jingle_bells.mp3",
+                "licence": "REPLACE"
+            }
+        ],
+        "boxes": [
+            {
+                "key": "box_none",
+                "name": "None",
+                "tier": "free",
+                "order": 0,
+                "name_key": "BOX_NONE",
+                "empty": true
+            },
+            {
+                "key": "box_snowman",
+                "name": "Snowman",
+                "tier": "free",
+                "order": 10,
+                "name_key": "BOX_SNOWMAN",
+                "sha256": "8532ecea540ab88418e61b4aef45be0ae7f4ba911a04438467c06a747da6ca3d",
+                "bytes": 30538,
+                "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/box_snowman.webp",
+                "thumb": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/box_snowman_t.webp",
+                "source": "res/drawable/snowman_card.xml",
+                "format": "webp",
+                "needs": "webp",
+                "width": "1024",
+                "height": "697"
+            },
+            {
+                "key": "box_reindeer",
+                "name": "Reindeer",
+                "tier": "free",
+                "order": 20,
+                "name_key": "BOX_REINDEER",
+                "sha256": "13760325959e93c376e4d15a01ef8b0c5d3b0ddcc2cefd00e5e20fdc6352cd59",
+                "bytes": 42340,
+                "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/box_reindeer.webp",
+                "thumb": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/box_reindeer_t.webp",
+                "source": "res/drawable/raindeer_card.xml",
+                "format": "webp",
+                "needs": "webp",
+                "width": "1024",
+                "height": "1139"
+            },
+            {
+                "key": "box_santa",
+                "name": "Santa",
+                "tier": "free",
+                "order": 30,
+                "name_key": "BOX_SANTA",
+                "sha256": "91de38a05eae70f8eae99fef81c8fb4c9949aa4c33cc789aa8f39fb70ae468ad",
+                "bytes": 37026,
+                "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/box_santa.webp",
+                "thumb": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@main/xmastick/assets/box_santa_t.webp",
+                "source": "res/drawable/santa_card.xml",
+                "format": "webp",
+                "needs": "webp",
+                "width": "1024",
+                "height": "670"
+            }
+        ],
+        "decorations": [],
+        "text_styles": [
+            {
+                "key": "style_days",
+                "name": "Days + time",
+                "tier": "free",
+                "order": 0,
+                "name_key": "STYLE_DAYS",
+                "fields": [
+                    "days",
+                    "hours",
+                    "minutes",
+                    "seconds"
+                ],
+                "preview": "24 Days / 8 hours, 12 minutes / 30 seconds"
+            },
+            {
+                "key": "style_sleeps",
+                "name": "Sleeps",
+                "tier": "free",
+                "order": 10,
+                "name_key": "STYLE_SLEEPS",
+                "fields": [
+                    "sleeps"
+                ],
+                "preview": "25 Sleeps"
+            },
+            {
+                "key": "style_weeks",
+                "name": "Weeks",
+                "tier": "free",
+                "order": 20,
+                "name_key": "STYLE_WEEKS",
+                "fields": [
+                    "weeks",
+                    "days",
+                    "hours",
+                    "minutes",
+                    "seconds"
+                ],
+                "preview": "3 weeks / 4 days 8 hours"
+            },
+            {
+                "key": "style_seconds",
+                "name": "Total seconds",
+                "tier": "free",
+                "order": 30,
+                "name_key": "STYLE_SECONDS",
+                "fields": [
+                    "seconds"
+                ],
+                "preview": "2,109,150 seconds"
+            },
+            {
+                "key": "style_grid",
+                "name": "Grid",
+                "tier": "free",
+                "order": 40,
+                "name_key": "STYLE_GRID",
+                "fields": [
+                    "days",
+                    "hours",
+                    "minutes",
+                    "seconds"
+                ],
+                "layout": "grid4",
+                "preview": "24 | 8 | 12 | 30"
+            }
+        ]
+    }
+}
