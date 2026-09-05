@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2560" viewBox="0 0 1440 2560">
+  <defs>
+    <linearGradient id="coat" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C4302B"/><stop offset="1" stop-color="#9E1F1B"/>
+    </linearGradient>
+    <linearGradient id="sack" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8C6239"/><stop offset="1" stop-color="#6B4726"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Sack, behind him and to his right -->
+  <g>
+    <path d="M600 2360 q-30 -140 60 -190 q40 -22 80 -8 q90 40 68 198 Z" fill="url(#sack)"/>
+    <path d="M690 2160 q-24 -34 6 -50 q28 -14 44 8 q16 24 -10 42 Z" fill="#6B4726"/>
+  </g>
+
+  <!-- Boots -->
+  <path d="M404 2312 h74 v56 q0 18 -22 18 h-74 q-16 0 -12 -18 Z" fill="#241F20"/>
+  <path d="M520 2312 h74 v56 q0 18 -22 18 h-74 q-16 0 -12 -18 Z" fill="#241F20"/>
+
+  <!-- Coat: wider at the hem, the way a heavy coat hangs -->
+  <path d="M470 1990 h70 q66 0 84 60 l44 230 q6 34 -30 46 h-268
+           q-36 -12 -30 -46 l44 -230 q18 -60 84 -60 Z" fill="url(#coat)"/>
+  <!-- Fur hem -->
+  <path d="M370 2300 h268 q34 10 30 40 h-328 q-4 -30 30 -40 Z" fill="#F7FAFF"/>
+  <!-- Belt and buckle -->
+  <rect x="378" y="2170" width="252" height="46" rx="6" fill="#241F20"/>
+  <rect x="478" y="2166" width="56" height="54" rx="8" fill="#E8B93B"/>
+  <rect x="494" y="2182" width="24" height="22" rx="4" fill="#241F20"/>
+
+  <!-- Arm reaching toward the sack -->
+  <path d="M596 2060 q70 30 84 108 q6 30 -26 36 q-30 6 -40 -26 q-16 -56 -60 -76 Z"
+        fill="#B02823"/>
+  <circle cx="660" cy="2196" r="30" fill="#F7FAFF"/>
+
+  <!-- Beard, face, hat -->
+  <path d="M420 1960 q84 -40 168 0 q22 96 -34 150 q-50 46 -100 0 q-56 -54 -34 -150 Z"
+        fill="#F7FAFF"/>
+  <circle cx="504" cy="1940" r="74" fill="#F2C9A0"/>
+  <circle cx="474" cy="1936" r="9" fill="#241F20"/>
+  <circle cx="534" cy="1936" r="9" fill="#241F20"/>
+  <path d="M470 1976 q34 26 68 0 q-34 40 -68 0 Z" fill="#C4302B"/>
+  <path d="M416 1898 q26 -104 118 -104 q104 0 130 92 q-70 -34 -134 -20 q-68 14 -114 32 Z"
+        fill="#C4302B"/>
+  <rect x="404" y="1886" width="248" height="42" rx="21" fill="#F7FAFF"/>
+  <circle cx="676" cy="1866" r="34" fill="#F7FAFF"/>
+</svg>
