@@ -1,8 +1,0 @@
-{
-    "version": 3,
-    "sha256": "8740550a8ac9b27ccdf4c01344135834a4b000af9c27d5a44451c329ec9116c9",
-    "signature": "ed25519:OHwDfFNeM7teBcDOJyUfWAWv0P5nKBTlEJKTIvPi10X+CJT93/P+3H65xr6gQ+9Hch/kALu1XU5q+1HTsVnIDQ==",
-    "bytes": 401,
-    "published_at": "2026-10-31T14:21:40+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@fa8c2e6/unitprice/v3.json"
-}
