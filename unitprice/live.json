@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "43585d178231985991f3370a615132ea0238383b70be372dce2deb968463bc50",
-    "signature": "ed25519:tgvjE90owKheTsh0rC/kHK5LVy+edmpOLEeY3Uuicxmer5Xdmzkgxuar5Dr6zIihLSD8wMfLuRUDsWrfNBwcCQ==",
-    "bytes": 459,
-    "published_at": "2026-10-31T14:18:28+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@81286e2/unitprice/v2.json"
+    "version": 3,
+    "sha256": "8740550a8ac9b27ccdf4c01344135834a4b000af9c27d5a44451c329ec9116c9",
+    "signature": "ed25519:OHwDfFNeM7teBcDOJyUfWAWv0P5nKBTlEJKTIvPi10X+CJT93/P+3H65xr6gQ+9Hch/kALu1XU5q+1HTsVnIDQ==",
+    "bytes": 401,
+    "published_at": "2026-10-31T14:21:40+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@fa8c2e6/unitprice/v3.json"
 }
