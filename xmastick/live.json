@@ -1,8 +1,8 @@
 {
-    "version": 27,
-    "sha256": "bb7ba600db3e2bf82991fb53c9eb9454ddb9066caa000588ae6171418b2f9414",
-    "signature": "ed25519:dy08rsDIEauYiO5TtdXCw27rI6CgeEyM5ICLzrPEVk0o0SveAVbOxLLku0Jle00bb36tvdPAS9YLvost3UIvCw==",
-    "bytes": 81723,
-    "published_at": "2026-11-20T12:31:43+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@fae04af/xmastick/v27.json"
+    "version": 28,
+    "sha256": "d7adc96db28d9e7364189e240d83f1d53d1c16d5b75b9fe64a33b68e17e0ea67",
+    "signature": "ed25519:iOrdZTrewriLRfx6kvI+hHNOYskSHm7rC5fHjTJULiz4QqQJxz7bknhjBrzKTzzVks9jta+ST4AblaZ0BzGsAg==",
+    "bytes": 92099,
+    "published_at": "2026-11-20T17:58:48+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@97424cc/xmastick/v28.json"
 }
