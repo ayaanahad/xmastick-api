@@ -1,8 +1,8 @@
 {
-    "version": 30,
-    "sha256": "c4ec30eafde0062e817ef10e7c9e230cf54b70082fbf6cfcbff887555833e81a",
-    "signature": "ed25519:G3UCfsFyhSQnPtkScAdRuilnsyGkfPF4HIqwYOOncqpn0bbSFS9mkcDhWVhGSdktFOOJWsaAJmZX1F78F1ktAQ==",
+    "version": 31,
+    "sha256": "64e76b2ec3c911b17a5f390213cc6a99e67cb3042126a91b1e1ca7f6625c0c2e",
+    "signature": "ed25519:YUm77nXmkfvdD+Zk8Rqrw7G7rWOixGtwXTlU2GuYRUmBj6llf3ry+ilWTc48kIfwqwDyoxqbzkUnp4OLf/1CCg==",
     "bytes": 99592,
-    "published_at": "2026-11-20T21:13:16+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@a077e72/xmastick/v30.json"
+    "published_at": "2026-11-20T21:18:25+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/ayaanahad/xmastick-api@69d8c7f/xmastick/v31.json"
 }
